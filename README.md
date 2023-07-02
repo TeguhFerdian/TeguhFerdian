@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **data scientist**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1qMOavfXW3veDOi0mL6qQOjb9c8RQ4pvW/view?usp=sharing](https://drive.google.com/file/d/1qMOavfXW3veDOi0mL6qQOjb9c8RQ4pvW/view?usp=sharing)
-
 - 💬 Ask me about **data visualization, machine learning preparation (EDA, feature extraction, data pre-processing), python intro & data types, python programming, big data and cloud computing, data preprocessing using pandas, machine learning evaluation, supervised learning and unsupervised learning**
 
 - 📫 How to reach me **teguhferdianto19@gmail.com/teguhferdianto11@gmail.com**
