@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **teguhferdianto19@gmail.com/teguhferdianto11@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YOZPisAAxuZsNDkWlI_1oPJw_LeLq6nG/view?usp=sharing](https://drive.google.com/file/d/1YOZPisAAxuZsNDkWlI_1oPJw_LeLq6nG/view?usp=sharing)
-
 - ⚡ Fun fact **I can work in groups and individually**
 
 <h3 align="left">Connect with me:</h3>
